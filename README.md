@@ -55,3 +55,4 @@ September 26: Azure AI Session by Annie Talvasto (Microsoft Azure AI MVP)
 
 - [Will AI replace engineers? Ex-OpenAI engineer at Google drops truth bombs about AI's future!](https://www.youtube.com/watch?v=yaPOxsZsB90)
 - [Python Full Course for Beginners \[2025\]](https://www.youtube.com/watch?v=K5KVEU3aaeQ)
+- [ML Resources by John Krohn](https://www.jonkrohn.com/resources)
