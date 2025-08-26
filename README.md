@@ -41,7 +41,9 @@ Date: 26 September, 2025
 
 August 8: [AcademiaTalks: Recent ML  Trends Shaping Harvard & US Research](https://www.youtube.com/live/MwrYgmciZSE) by Raima Islam (ML Researcher, Harvard University)
 
-August 22: AI agents by Aye Hninn Khine (Google Developer Expert in ML)
+August 15: [Human Language is the New UI. How this is possible?](https://www.youtube.com/watch?v=P7ZWKTWsaNg&t=166s) by Bill Wilder (MVP, Microsoft AI)
+
+August 22: [All about AI Agents](https://www.youtube.com/live/Ud8sQIEwiXw) by Aye Hninn Khine (Google Developer Expert in ML)
 
 September 5: Strands Agents by Vivek Raja (Amazon Web Services Hero in ML)
 
